@@ -1,3 +1,5 @@
+![Header](https://i.postimg.cc/xCPG57Vw/github-header-image-9.png)
+
 <h1 align="center">Hi 👋, I'm Nishant</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align ="right" alt = "coding" width ="400" src ="https://camo.githubusercontent.com/9accca7af32dbfcde6e014ea2cbd4d3ad1547ac026eff01fd9acc9f112bb9a75/68747470733a2f2f632e74656e6f722e636f6d2f745a325864384c71416e4d41414141642f747970696e672d666173742e676966"
