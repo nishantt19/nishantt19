@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Web Dev Projects**
 
-- 💬 Ask me about **React, Web Dev and Anime**
+- 💬 Ask me about **Web Dev and Anime**
 
 - 📫 How to reach me **nyd44533@gmail.com**
 
