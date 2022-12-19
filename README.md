@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantt19&label=Profile%20views&color=98999a&style=plastic" alt="nishantt19" /> </p>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👯 I’m looking to collaborate on **Web Dev Projects**
 
