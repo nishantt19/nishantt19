@@ -1,6 +1,6 @@
 ![Header](https://i.postimg.cc/xCPG57Vw/github-header-image-9.png)
 <h1 align="center">Hi 👋, I'm Nishant</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantt19&label=Profile%20views&color=98999a&style=plastic" alt="nishantt19" /> </p>
 
